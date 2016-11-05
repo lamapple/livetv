@@ -1,0 +1,34 @@
+[
+  {
+    "channel": "Rai 1",
+    "url": "http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8"
+  },
+  {
+    "channel": "Rai 2",
+    "url": "http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8"
+  },
+  {
+    "channel": "Rai 3",
+    "url": "http://httpstream2.rai.it/Italy/rai3.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8"
+  },
+  {
+    "channel": "Rai YoYo",
+    "url": "http://stream5.rai.it/italy/smil:raiyoyo_android.smil/playlist.m3u8"
+  },
+  {
+    "channel": "La 7",
+    "url": "http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8"
+  },
+  {
+    "channel": "SkyTG 24",
+    "url": "http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8"
+  },
+  {
+    "channel": "cielo",
+    "url": "http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8"
+  },
+  {
+    "channel": "Euronews",
+    "url": "http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8"
+  }
+]
