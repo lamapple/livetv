@@ -1,34 +1,38 @@
 [
   {
-    "channel": "HTV1",
-    "url": "http://123.30.185.126/hls/vtv1.m3u8"
+    "channel": "HTV7HD",
+    "url": "http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8"
+  },
+  {
+    "channel": "HTV9HD",
+    "url": "http://113.160.49.39/lives/origin04/htv9hd.isml/htv9hd.m3u8"
   },
   {
     "channel": "VTV1HD",
-    "url": "http://118.107.68.10:1935/live/_definst_/VTV1HD_1280x720_07122016/playlist.m3u8"
+    "url": "http://113.160.49.39/lives/origin04/v1sd.isml/v1sd.m3u8"
   },
   {
     "channel": "VTV2",
-    "url": "http://118.107.68.10:1935/live/_definst_/VTV2_720x576_2016/playlist.m3u8"
+    "url": "http://sv.tivi3g.com/stream-vtv/vtv2.m3u8"
   },
   {
-    "channel": "Rai YoYo",
-    "url": "http://stream5.rai.it/italy/smil:raiyoyo_android.smil/playlist.m3u8"
+    "channel": "VTV3HD",
+    "url": "http://113.160.49.39/lives/origin04/v3sd.isml/v3sd.m3u8"
   },
   {
-    "channel": "La 7",
-    "url": "http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8"
+    "channel": "ANTV",
+    "url": "http://123.30.185.126/hls/antv.m3u8"
   },
   {
-    "channel": "SkyTG 24",
-    "url": "http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8"
+    "channel": "VTC1HD",
+    "url": "http://118.107.68.10:1935/live/smil:VTC1HD_15032017.smil/playlist.m3u8"
   },
   {
-    "channel": "cielo",
-    "url": "http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8"
+    "channel": "VTC3HD",
+    "url": "http://118.107.68.10:1935/live/_definst_/smil:VTC3HD_15032017.smil/playlist.m3u8"
   },
   {
-    "channel": "Euronews",
-    "url": "http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8"
+    "channel": "THVL2",
+    "url": "http://113.160.49.39/lives/origin04/vinhlongsd.isml/vinhlongsd.m3u8"
   }
 ]
